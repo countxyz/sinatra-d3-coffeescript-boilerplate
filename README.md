@@ -22,7 +22,7 @@ Copyright (C) 2014 Efren Aguirre <skeptoid@gmail.com>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See 
-[License](https://github.com/countxyz/harmonize/blob/master/LICENSE.txt)
+[License](https://github.com/countxyz/sinatra-d3-coffeescript-boilerplate/blob/master/LICENSE.txt)
 for more details.
 
 <hr>
