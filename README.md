@@ -13,6 +13,7 @@ bundle install
 bundle exec shotgun config.ru
 ```
 
+Navigate to http://127.0.0.1:9393
 If you get a black background, it works!
 
 ## License
