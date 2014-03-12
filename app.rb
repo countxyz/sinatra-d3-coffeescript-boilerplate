@@ -1,6 +1,6 @@
 require 'sinatra/base'
 
-class D3Coffee < Sinatra::Base
+class App < Sinatra::Base
 
   get ('/') { erb :index }
 end
